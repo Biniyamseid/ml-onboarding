@@ -1,0 +1,4 @@
+hello this is a text file
+this is the second file
+this is the third file
+this is the forth file
